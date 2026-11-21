@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-11-20T07:06:29+00:00",
+  "updated_at": "2026-11-21T01:44:14+00:00",
   "items": [
+    {
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "source": "美國 CISA",
+      "date": "2026-11-20",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+    },
     {
       "title": "Elecbrakes EB2, VM1, ELBC2000",
       "source": "美國 CISA",
@@ -80,16 +86,10 @@
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03"
     },
     {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "title": "Siemens RUGGEDCOM APE1808",
       "source": "美國 CISA",
       "date": "2026-11-17",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog"
-    },
-    {
-      "title": "Siemens meta-iot2050",
-      "source": "美國 CISA",
-      "date": "2026-11-17",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11"
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07"
     },
     {
       "title": "Siemens SIMATIC WinCC",
@@ -98,10 +98,16 @@
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09"
     },
     {
-      "title": "Siemens RUGGEDCOM APE1808",
+      "title": "Siemens meta-iot2050",
       "source": "美國 CISA",
       "date": "2026-11-17",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07"
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "source": "美國 CISA",
+      "date": "2026-11-17",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog"
     },
     {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -110,16 +116,16 @@
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
     },
     {
-      "title": "Siemens RUGGEDCOM APE1808",
-      "source": "美國 CISA",
-      "date": "2026-11-12",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05"
-    },
-    {
       "title": "Siemens Building Automation and Energy Products",
       "source": "美國 CISA",
       "date": "2026-11-12",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01"
+    },
+    {
+      "title": "Siemens RUGGEDCOM APE1808",
+      "source": "美國 CISA",
+      "date": "2026-11-12",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05"
     },
     {
       "title": "Siemens RUGGEDCOM APE1808",
@@ -174,12 +180,6 @@
       "source": "美國 CISA",
       "date": "2026-11-05",
       "url": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "source": "美國 CISA",
-      "date": "2026-11-04",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog"
     }
   ]
 }
