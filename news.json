@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-23T03:57:02+00:00",
+  "updated_at": "2026-11-24T01:47:40+00:00",
   "items": [
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "source": "美國 CISA",
+      "date": "2026-11-23",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "title_zh": "CISA 將兩個已知遭攻擊的漏洞新增至目錄"
+    },
     {
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
       "source": "美國 CISA",
@@ -37,11 +44,11 @@
       "title_zh": "CISA 將四項已知遭利用的漏洞加入目錄"
     },
     {
-      "title": "Siemens Simcenter Femap",
+      "title": "Siemens ROS#",
       "source": "美國 CISA",
       "date": "2026-11-17",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
-      "title_zh": "西門子 Simcenter Femap"
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+      "title_zh": "西門子 ROS#"
     },
     {
       "title": "Dorsett Controls InfoScan",
@@ -79,11 +86,11 @@
       "title_zh": "西門子工業軟體產品"
     },
     {
-      "title": "Siemens ROS#",
+      "title": "Siemens Simcenter Femap",
       "source": "美國 CISA",
       "date": "2026-11-17",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
-      "title_zh": "西門子 ROS#"
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
+      "title_zh": "西門子 Simcenter Femap"
     },
     {
       "title": "Siemens SIMATIC",
@@ -196,13 +203,6 @@
       "date": "2026-11-06",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
       "title_zh": "CISA 將一個已知遭攻擊的漏洞新增至目錄"
-    },
-    {
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "source": "美國 CISA",
-      "date": "2026-11-05",
-      "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "title_zh": "美國政府合作夥伴敦促強化工業冷凍與冷鏈監控系統"
     },
     {
       "title": "Post-Quantum Questions to Ask Your Vendors",
