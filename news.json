@@ -1,19 +1,26 @@
 {
-  "updated_at": "2026-11-25T01:51:58+00:00",
+  "updated_at": "2026-11-26T01:51:43+00:00",
   "items": [
+    {
+      "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+      "source": "美國 CISA",
+      "date": "2026-11-25",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
+      "title_zh": "CISA 將 10 個已知受攻擊的漏洞新增至目錄"
+    },
+    {
+      "title": "AutomationDirect C-More EA9 Programming Software",
+      "source": "美國 CISA",
+      "date": "2026-11-24",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "title_zh": "AutomationDirect C-More EA9 程式設計軟體"
+    },
     {
       "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
       "source": "美國 CISA",
       "date": "2026-11-24",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "title_zh": "CISA 將三項已知遭攻擊的漏洞新增至目錄"
-    },
-    {
-      "title": "Danfoss AK-SM 8xxA Series",
-      "source": "美國 CISA",
-      "date": "2026-11-24",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
-      "title_zh": "丹佛斯 AK-SM 8xxA 系列"
     },
     {
       "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
@@ -23,11 +30,11 @@
       "title_zh": "Schneider Electric EcoStruxure Power Build Rapsody 軟體"
     },
     {
-      "title": "AutomationDirect C-More EA9 Programming Software",
+      "title": "Danfoss AK-SM 8xxA Series",
       "source": "美國 CISA",
       "date": "2026-11-24",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
-      "title_zh": "AutomationDirect C-More EA9 程式設計軟體"
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+      "title_zh": "丹佛斯 AK-SM 8xxA 系列"
     },
     {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -72,11 +79,11 @@
       "title_zh": "CISA 將四項已知遭利用的漏洞加入目錄"
     },
     {
-      "title": "Siemens RUGGEDCOM APE1808",
+      "title": "Siemens Industrial Software Products",
       "source": "美國 CISA",
       "date": "2026-11-17",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
-      "title_zh": "西門子 RUGGEDCOM APE1808"
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
+      "title_zh": "西門子工業軟體產品"
     },
     {
       "title": "Dorsett Controls InfoScan",
@@ -114,13 +121,6 @@
       "title_zh": "Java 嚴重漏洞需要立即修補"
     },
     {
-      "title": "Siemens Industrial Software Products",
-      "source": "美國 CISA",
-      "date": "2026-11-17",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
-      "title_zh": "西門子工業軟體產品"
-    },
-    {
       "title": "Siemens meta-iot2050",
       "source": "美國 CISA",
       "date": "2026-11-17",
@@ -156,6 +156,13 @@
       "title_zh": "西門子工業自動化軟體產品"
     },
     {
+      "title": "Siemens RUGGEDCOM APE1808",
+      "source": "美國 CISA",
+      "date": "2026-11-17",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+      "title_zh": "西門子 RUGGEDCOM APE1808"
+    },
+    {
       "title": "Siemens SIMATIC WinCC",
       "source": "美國 CISA",
       "date": "2026-11-17",
@@ -177,6 +184,13 @@
       "title_zh": "西門子建築自動化與能源產品"
     },
     {
+      "title": "Siemens Industrial Edge Management",
+      "source": "美國 CISA",
+      "date": "2026-11-12",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
+      "title_zh": "西門子工業邊緣管理"
+    },
+    {
       "title": "Siemens RUGGEDCOM APE1808",
       "source": "美國 CISA",
       "date": "2026-11-12",
@@ -196,20 +210,6 @@
       "date": "2026-11-12",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
       "title_zh": "西門子 RUGGEDCOM APE1808"
-    },
-    {
-      "title": "Siemens Industrial Edge Management",
-      "source": "美國 CISA",
-      "date": "2026-11-12",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
-      "title_zh": "西門子工業邊緣管理"
-    },
-    {
-      "title": "NCSC scheme will help critical organisations test their cyber defences",
-      "source": "英國 NCSC",
-      "date": "2026-11-11",
-      "url": "https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences",
-      "title_zh": "英國國家網路安全中心 (NCSC) 計畫將協助關鍵組織測試其網路防禦能力"
     }
   ]
 }
